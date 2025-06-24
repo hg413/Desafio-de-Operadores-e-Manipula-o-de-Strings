@@ -12,9 +12,9 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada         | Saída  |
 |----------------|--------|
-| 100            | 90.00  |
 | DESCONTO10     |        |
-| 200            | 160.00 |
+| 100            | 90.00  |
 | DESCONTO20     |        |
-| 50             | 50.00  |
+| 200            | 160.00 |
 | SEM_DESCONTO   |        |
+| 50             | 50.00  |
