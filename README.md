@@ -10,10 +10,11 @@ Uma loja online deseja aplicar descontos em seus produtos com base em cupons de 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 
-Entrada	Saída
-100
-DESCONTO10	90.00
-200
-DESCONTO20	160.00
-50
-SEM_DESCONTO	50.00
+| Entrada         | Saída  |
+|----------------|--------|
+| 100            | 90.00  |
+| DESCONTO10     |        |
+| 200            | 160.00 |
+| DESCONTO20     |        |
+| 50             | 50.00  |
+| SEM_DESCONTO   |        |
